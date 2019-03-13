@@ -1,6 +1,6 @@
 class Main {
 	public static void Main(String[] args) {
-		//TODO
+		System.out.pritln("Hello");
 	}
 }
 
