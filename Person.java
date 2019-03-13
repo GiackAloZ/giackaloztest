@@ -9,6 +9,10 @@ class Person {
 		this.surname = surname;
 	}
 
+	public Person(String name) {
+		this(name, "");
+	}
+
 	public String getName() {
 		return this.name;
 	}
