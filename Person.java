@@ -7,5 +7,9 @@ class Person {
 	public String getName() {
 		return this.name;
 	}
+
+	public String getSurname() {
+		return this.surname;
+	}
 }
 
